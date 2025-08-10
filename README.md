@@ -1,1 +1,2 @@
 # differential-barometric
+This repository consists of two components. The first is [ESP32_Barometer](https://github.com/witsir/ESP32_Barometer), a framework designed for reading data from the HP206 barometer. The second is the ROS 2 node [ros_barometer](https://github.com/witsir/ros_barometer), which implements the functionality to read pressure data sent via serial and HTTP from two different barometers.
